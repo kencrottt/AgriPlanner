@@ -2,8 +2,8 @@
 ### Aplikasi Rekomendasi Tanaman & Perencanaan Lahan
 
 ## 📖 Deskripsi
-Proyek ini adalah aplikasi AgriPlanner, yang dirancang untuk membantu petani dalam merencanakan lahan dan memilih tanaman yang sesuai. 
-Aplikasi ini dibuat sebagai tugas akhir mata kuliah Algoritma dan Pemrograman II. 
+Proyek ini adalah aplikasi AgriPlanner, yang dirancang untuk membantu petani dalam merencanakan lahan dan memilih tanaman yang sesuai.
+Aplikasi ini dibuat sebagai tugas akhir mata kuliah Algoritma dan Pemrograman II.
 Aplikasi ini dibangun sepenuhnya menggunakan Python, dengan penyimpanan data dalam format CSV.
 
 ## 🧑‍🌾 Fitur utama
@@ -19,7 +19,7 @@ Aplikasi ini dibangun sepenuhnya menggunakan Python, dengan penyimpanan data dal
 - Menghitung estimasi laba berdasarkan pemasukan dan pengeluaran.
 **Rekomendasi Tanaman berdasarkan jenis tanah dan musim untuk menemukan tanaman yang paling cocok.**
 **Perencanaan Maksimal untuk menyimulasikan potensi pendapatan dari suatu lahan dalam periode waktu tertentu.**
-
+  
 ## 🛠️ Teknologi yang Digunakan
 **Python 3.x** → Bahasa pemrograman utama
 **CSV** → Sebagai media penyimpanan data lokal
