@@ -1,13 +1,13 @@
 # 🪴 Proyek Akhir Algoritma dan Pemrograman II - AgriPlanner
 ### Aplikasi Rekomendasi Tanaman & Perencanaan Lahan
 
-##📖 Deskripsi
+## 📖 Deskripsi
 Proyek ini adalah aplikasi AgriPlanner, yang dirancang untuk membantu petani dalam merencanakan lahan dan memilih tanaman yang sesuai. 
 Aplikasi ini dibuat sebagai tugas akhir mata kuliah Algoritma dan Pemrograman II. 
 Aplikasi ini dibangun sepenuhnya menggunakan Python, dengan penyimpanan data dalam format CSV.
 
-##🧑‍🌾 Fitur utama
-###Pengguna (petani) :
+## 🧑‍🌾 Fitur utama
+### Pengguna (petani) :
 **Registrasi & Login** untuk membuat dan masuk ke akun pengguna.
 **Kelola Profil Pengguna** untuk melihat dan mengubah biodata.
 **Kelola Penyimpanan Tanaman**: 
@@ -20,7 +20,7 @@ Aplikasi ini dibangun sepenuhnya menggunakan Python, dengan penyimpanan data dal
 **Rekomendasi Tanaman berdasarkan jenis tanah dan musim untuk menemukan tanaman yang paling cocok.**
 **Perencanaan Maksimal untuk menyimulasikan potensi pendapatan dari suatu lahan dalam periode waktu tertentu.**
 
-##🛠️ Teknologi yang Digunakan
+## 🛠️ Teknologi yang Digunakan
 **Python 3.x** → Bahasa pemrograman utama
 **CSV** → Sebagai media penyimpanan data lokal
 **Pandas** → Untuk manipulasi dan analisis data dari file CSV
